@@ -16,7 +16,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a UI/UX Designer & Mobile Developer <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="40"> from Egypt.
+I am a UI/UX Designer @ QuickSand Studios | Front End Developer <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="40"> from Egypt.
 
 
 ---

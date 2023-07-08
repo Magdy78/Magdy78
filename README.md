@@ -3,7 +3,7 @@
   <h1> Hi there 👋,Call me Ahmed.</h1>
   <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="200"/>
 </div>
-<h2 align="center">=========================================================</h2>
+
 <div id="badges" align="center" margin="10px">
   <a href="https://www.linkedin.com/in/ahmed-magdy-3a2118211">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

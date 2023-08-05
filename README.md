@@ -20,7 +20,10 @@ I am a UI/UX Designer @ QuickSand Studios | Front End Developer <img src="https:
 
 
 ---
+### How To Find me?
 
+https://ahmed.magdybus@gmail.com
+---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
